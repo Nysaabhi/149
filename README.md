@@ -2792,7 +2792,7 @@ style.textContent = `
   .list-item {
     padding: 16px;
     margin: 8px auto;
-    width: 235px;
+    width: 240px;
     max-width: none;
   }
   
