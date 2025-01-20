@@ -2797,7 +2797,7 @@ style.textContent = `
   .list-item {
     padding: 16px;
     margin: 8px auto;
-    width: 250px;
+    width: 245px;
     max-width: none;
   }
   
