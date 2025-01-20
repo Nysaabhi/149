@@ -145,11 +145,6 @@ body {
     position: relative;
 }
 
-/* Add hover effect for bot messages */
-.bot-message:hover {
-    background: rgba(255, 255, 255, 0.02);
-}
-
 /* Keep user message styles as they are */
 .user-message {
     align-self: flex-end;
